@@ -1,0 +1,4 @@
+build/*.js
+config/*.js
+src/vuex/modules/*.js
+src/vuex/*.js
