@@ -1,6 +1,12 @@
-# dev_base
-
-> A Vue.js project
+# 스마트 팩토리 시스템 구축
+- 영천 ㅇㅇ ㅇㅇㅇ 공장
+- 공장 내 공정 진행 사항 실시간 시각화 시스템 (MES)
+- 공장 경영 데이터 통계 및 분석 시각화 시스템 (BI)
+- Vue.js
+- chart.js
+- semantic UI
+- Axios
+> 
 
 ## Build Setup
 
